@@ -3,7 +3,7 @@ from chatterbot.trainers import ChatterBotCorpusTrainer
 from pydantic import v1 as pydantic_v1
 
 # Initialize chatbot
-chatbot = ChatBot("AI Assistant")
+chatbot = ChatBot("AI unAssistant")
 trainer = ChatterBotCorpusTrainer(chatbot)
 
 # Train with English dataset
