@@ -1,4 +1,6 @@
  .DS_Store
  .gitignore
  .vscode/
- db.sqlite3
+ *.sqlite3
+ !db.sqlite3
+ examples/

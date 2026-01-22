@@ -5,7 +5,7 @@ Build a simple chatbot in Python using Chatterbot and NLTK Libraries.
 ## What I ended up with
 ### mainV1
 - The "AI unAssistant"
-- Using the basic parameters built into Chatterbot with a fast set of training data, we get as very unhelpful assistant.
+- Using the basic parameters built into Chatterbot with a fast set of training data, we get a very unhelpful assistant.
 - Some responses are reasonable, while others are totally bonkers.
 - Additional training will be needed to make this a more effective communicator.
 
